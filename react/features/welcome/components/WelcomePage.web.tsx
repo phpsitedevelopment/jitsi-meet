@@ -215,7 +215,7 @@ class WelcomePage extends AbstractWelcomePage<IProps> {
                             { t('welcomepage.headerTitle') }
                         </h1>
                         <span className = 'header-text-subtitle'>
-                            { t('welcomepage.headerSubtitle')}
+                            Welcome to Kapil's World -- { t('welcomepage.headerSubtitle')}
                         </span>
                         <div id = 'enter_room'>
                             <div className = 'join-meeting-container'>
